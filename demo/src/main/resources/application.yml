@@ -1,0 +1,15 @@
+server:
+  port: 8900
+
+
+swagger:
+  basePackage: com
+  title: "demo ui doc"
+  contactName: "libai"
+  contactUrl: contactUrl-demo
+  contactEmail: contactEmail-demo
+  version: v1.0.0
+  description: description-demo
+  termsOfServiceUrl: termsOfServiceUrl-demo
+  license: license-demo
+  licenseUrl: licenseUrl-demo

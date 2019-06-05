@@ -1,0 +1,9 @@
+server:
+  port: 8902
+
+zuul:
+  routes:
+    #demo系统
+    demo:
+      path: /demo/**
+      url: http://localhost:8900
